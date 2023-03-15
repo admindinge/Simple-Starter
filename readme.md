@@ -1,3 +1,7 @@
-<p><img src="https://raw.githubusercontent.com/agragregra/Simple-Starter/main/images/preview.png" alt="Start HTML Template"></p>
-<p>Clone:</p>
-<pre>git clone https://github.com/agragregra/Simple-Starter .; rm -rf trunk .gitignore readme.md .git</pre>
+მარტივი სტარტერი
+
+სტარტერი შესრულებულია შაბლონის სახით და უკეთესი იქნება შექმნათ ახალი რეპოზიტორი სხვა სახელით
+
+ბიბლიოთეკების ჩამატება მოხდება 
+<p>ქლონირება:</p>
+<pre>git clone https://github.com/admindinge/Simple-Starter.git .; rm -rf trunk .gitignore readme.md .git</pre>
